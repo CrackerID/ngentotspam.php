@@ -1,1 +1,0 @@
-# ngentotspam.php
